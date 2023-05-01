@@ -1,0 +1,128 @@
+materials:
+- name: "Dirt"
+  base_color: [155, 118, 53]
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.75
+  reflectance: 0.45
+  metallic: 0.0
+
+- base_color: [194, 178, 128]
+  name: "Sand"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.8
+  reflectance: 1.0
+  metallic: 0.0
+
+- base_color: [52, 140, 49]
+  name: "Grass"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.66
+  reflectance: 0.3
+  metallic: 0.0
+
+- base_color: [90, 77, 65]
+  name: "Rock"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.85
+  reflectance: 0.0
+  metallic: 0.6
+
+- base_color: [235, 235, 241]
+  name: "Snow"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.0
+  reflectance: 0.0
+  metallic: 0.0
+
+- base_color: [62, 108, 209]
+  name: "Water"
+  flags: 1
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.67
+  reflectance: 0.0
+  metallic: 0.11
+
+- base_color: [213, 194, 165]
+  name: "Sandstone"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.0
+  reflectance: 0.0
+  metallic: 0.0
+
+- base_color: [64, 64, 64]
+  name: "Bedrock"
+  flags: 2
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.9
+  reflectance: 0.0
+  metallic: 1.0
+
+- base_color: [46, 96, 33]
+  name: "Cactus"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.0
+  reflectance: 0.0
+  metallic: 0.0
+
+- base_color: [186, 140, 99]
+  name: "Wood"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.7
+  metallic: 0.46
+  reflectance: 0.0
+
+- base_color: [77, 136, 54]
+  name: "Leaves"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.73
+  metallic: 1.0
+  reflectance: 0.0
+
+- base_color: [135, 201, 167]
+  name: "PineLeaves"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.73
+  metallic: 1.0
+  reflectance: 0.0
+
+- base_color: [238, 213, 174]
+  name: "PineWood"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.7
+  metallic: 0.46
+  reflectance: 0.0
+
+- base_color: [42, 88, 169]
+  name: "DeepWater"
+  flags: 1
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.67
+  metallic: 0.11
+  reflectance: 0.0
+
+- base_color: [101, 138, 42]
+  name: "Algae"
+  flags: 3
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.0
+  reflectance: 0.0
+  metallic: 0.0
+
+- base_color: [228, 203, 164]
+  name: "HardWood"
+  flags: 0
+  emissive: [0, 0, 0]
+  perceptual_roughness: 0.85
+  metallic: 0.4
+  reflectance: 0.0
